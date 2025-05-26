@@ -170,13 +170,13 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <table>
 <tr>
 <td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmaiia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=algolia&locale=pt-br&card_width=480"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmaiia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=radical&locale=pt-br&card_width=480"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaiia&theme=algolia&locale=pt-br&langs_count=7"/>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaiia&theme=radical&locale=pt-br&langs_count=7"/>
 </td>
 <td>
-<img alt="GitHub Top Langs Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaiia&layout=pie&theme=algolia&locale=pt-br"/>
+<img alt="GitHub Top Langs Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaiia&layout=pie&theme=radical&locale=pt-br"/>
 </td>
 </tr>
 </table>
@@ -209,24 +209,24 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <table>
 <tr>
 <td>
-<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasmaiia&theme=algolia"/>
+<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasmaiia&theme=radical"/>
 </td>
 <td>
-<img alt="GitHub Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasmaiia&theme=algolia"/>
+<img alt="GitHub Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasmaiia&theme=radical"/>
 </td>
 <td>
-<img alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmaiia&theme=algolia"/>
+<img alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmaiia&theme=radical"/>
 </td> 
 </tr>
 <tr>
 <td>
-<img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasmaiia&theme=algolia&utcOffset=8"/>
+<img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasmaiia&theme=radical&utcOffset=8"/>
 </td>
 <td>
-<img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasmaiia&theme=algolia"/>
+<img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasmaiia&theme=radical"/>
 </td>
 <td>
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasmaiia&theme=algolia&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasmaiia&theme=radical&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
 </td>
 </tr>
 </table>
