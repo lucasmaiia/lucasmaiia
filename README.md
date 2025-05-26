@@ -264,10 +264,13 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <!-- Seção Spotify -->
 <div>
 <details>
-<summary>Meu Spotify</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=lucasrsnd1" alt="Data Card for Spotify">
+<summary>
+<h3><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Meu Spotify </h3>
+</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=udx5gz1ddndm9l39ia9n4uu0x" alt="Data Card for Spotify">
 </details>
 </div>
+
 
 <div align="center">
 <table>
@@ -279,9 +282,12 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <img alt="Spotify" width="300px" height="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=udx5gz1ddndm9l39ia9n4uu0x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
 </td>
 <td>
-<img alt="Spotify list" width="300px" height="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=udx5gz1ddndm9l39ia9n4uu0x&width=400px"/>
+<img alt="Spotify list" width="400px" height="500px" src="https://spotify-recently-played-readme.vercel.app/api?user=udx5gz1ddndm9l39ia9n4uu0x&width=400px"/>
 </td>
 </tr>
+<td>
+<img >
+</td>
 <tr>
  <td align="center" colspan="2"></td>
 </tr> 
