@@ -267,7 +267,7 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 Spotify
 </h3>
 </summary>
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=udx5gz1ddndm9l39ia9n4uu0x" alt="Data Card for Spotify">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313wrbnlkl4qyyrodytpfhdxdv2i" alt="Data Card for Spotify">
 </details>
 </div>
 
