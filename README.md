@@ -295,3 +295,35 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 </div>
 
 ---
+
+<!-- Seção de Outras redes -->
+<div>
+<h3> Gostou? Entre em contato! 😉​ </h3>
+</table>
+<a href="https://www.linkedin.com/in/lucas-maia-751971265/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:lmaiarocha23@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/5531993802557" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://discordapp.com/users/m4iaa" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://open.spotify.com/user/udx5gz1ddndm9l39ia9n4uu0x?si=f47a77fd68a2452c" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+<a href="https://www.instagram.com/lucasmaiia_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/maiamonster/" target="_blank"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a><br />
+<a href="https://stackoverflow.com/users/30643023/lucas-maia" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://github.com/lucasmaiia" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br></div>
+</div>
+
+----
+
+<!-- Seção Footer -->
+
+<div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B729F7&width=435&separator=%3C&lines=printf(%22Obrigado+pela+visita!!%5Cn%22);%3Cprintf(%22Volte+sempre!%5Cn%22);" alt="Typing SVG" />
+<div align="center">
+<table>
+<td>
+<a href="mailto:lucasmaia23@gmail.com" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/Img/footerm.gif" alt="github-footer1"/></a>
+</td>
+</tr>
+</table>
+</div>
