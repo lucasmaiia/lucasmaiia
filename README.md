@@ -50,9 +50,7 @@ Tenho experiência prática no desenvolvimento de sistemas completos através do
 
 Durante minha trajetória, também me envolvi em atividades acadêmicas e de pesquisa, além de contribuir para a área de Interação Humano-Computador com projetos de acessibilidade, avaliações heurísticas e uso do framework DECIDE.
 
-Busco constantemente evoluir, seja por meio de cursos extracurriculares, leitura técnica — como o livro Engenharia de Software Moderna, de Marco Túlio Valente — ou práticas diárias com lógica de programação e versionamento de projetos. Sou comprometido com o aprendizado contínuo e com a construção de soluções que aliam desempenho técnico e experiência do usuário.
-
-Busco constantemente aprimorar minhas habilidades técnicas e teóricas, mantendo resumos organizados dos conteúdos estudados e praticando lógica de programação diariamente com exercícios no Beecrowd e também criando projetos da Rocketseat. Também possuo o hábito da leitura técnica, com foco atual no livro Engenharia de Software Moderna, de Marco Túlio Valente.
+Busco constantemente evoluir, tanto no aspecto prático quanto teórico, por meio de cursos extracurriculares, leitura técnica e exercícios de programação. Tenho o hábito de manter resumos organizados dos conteúdos que estudo, pratico lógica de programação diariamente com desafios no Beecrowd e desenvolvo projetos próprios, como os da plataforma Rocketseat. Também valorizo a leitura especializada — atualmente, estudo o livro Engenharia de Software Moderna, de Marco Túlio Valente — sempre com o objetivo de construir soluções que aliam desempenho técnico e uma boa experiência para o usuário.
 
 </div>
 
