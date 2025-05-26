@@ -257,3 +257,31 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <br>
 
 </section>
+
+<!-- Seção Spotify -->
+<div>
+<details>
+<summary>
+<h3>
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/>
+Spotify
+</h3>
+</summary>
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=udx5gz1ddndm9l39ia9n4uu0x" alt="Data Card for Spotify">
+</details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img alt="Spotify" width="300px" height="400px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=udx5gz1ddndm9l39ia9n4uu0x&redirect=true"/>
+</td>
+<td>
+<img alt="Spotify list" width="300px" height="400px" src="https://spotify-recently-played-readme.vercel.app/api?user=udx5gz1ddndm9l39ia9n4uu0x&width=400px"/>
+</td>
+</tr>
+</table>
+</div>
+
+----
