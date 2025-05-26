@@ -56,6 +56,8 @@ Busco constantemente evoluir, tanto no aspecto prático quanto teórico, por mei
 
 ----
 
+<!-- Seção interesses -->
+
 <h3> 🕹️ Meus interesses</h3>
 
 <table>
@@ -75,3 +77,183 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 
 -----
 
+<!-- Seção de Ligugens e Ferramentas-->
+
+<div>
+
+<h3> 👨‍💻​ Linguagens</h3>
+
+<code>![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</a></code>
+&nbsp; 
+<code>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</a></code>
+&nbsp; 
+<code>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</a></code>
+&nbsp; 
+<code>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a></code>
+&nbsp; 
+<code>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a></code>
+&nbsp; 
+<code>![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)</a></code>
+&nbsp; 
+<code>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a></code>
+&nbsp;
+<code>![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)</a></code>
+&nbsp;
+<code>![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a></code>
+&nbsp;
+<code>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</a></code>
+&nbsp;
+<code>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)</a></code>
+&nbsp;
+<code>![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)</a></code>
+&nbsp;
+<code>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a></code>
+&nbsp;
+<code>![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)</code>
+&nbsp;
+<code>![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)</code>
+&nbsp;
+
+</div>
+
+-----
+
+<div>
+
+<h3>🛠️​​ Ferramentas </h3>
+
+<code>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</a></code>
+&nbsp; 
+<code>![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)</a></code>
+&nbsp; 
+<code>![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)</a></code>
+&nbsp; 
+<code>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</a></code>
+&nbsp; 
+<code>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</a></code>
+&nbsp; 
+<code>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a></code>
+&nbsp; 
+<code>![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)</a></code>
+&nbsp; 
+<code>![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)</a></code>
+&nbsp;
+<code>![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)</a></code>
+&nbsp;
+<code>![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)</code>
+&nbsp;
+<code>![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)</a></code>
+&nbsp; 
+<code>![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)</a></code>
+&nbsp; 
+<code>![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)</a></code>
+&nbsp; 
+<code>![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)</a></code>
+&nbsp; 
+<code>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</a></code>
+&nbsp; 
+<code>![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)</a></code>
+&nbsp; 
+
+
+
+</div>
+
+----
+
+<!-- Seção de Atividade no GitHub -->
+
+<h3><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats</h3>
+
+<section align="center">
+<div align="center">
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lucasmaiia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=algolia&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaiia&theme=algolia&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs Pie" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmaiia&layout=pie&theme=algolia&locale=pt-br"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Segunda linha: GitHub Wrapped e WakaTime -->
+<div align="center">
+<table>
+<tr>
+<!--<td>:octocat: <a href="https://www.githubwrapped.io/lucasmaiia" target="_blank">GitHub Wrapped</a></td>
+<td>:watch: <a href="https://wakatime.com/@lucasmaiia">WakaTime</a></td>-->
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/lucasmaiia/repos?time_range=one_year&theme=bright_lights"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=lucasmaiia&theme=dark&layout=compact"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Terceira linha: Cartões do perfil -->
+<div align="center">
+<table>
+<tr>
+<td>
+<img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasmaiia&theme=algolia"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasmaiia&theme=algolia"/>
+</td>
+<td>
+<img alt="GitHub Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmaiia&theme=algolia"/>
+</td> 
+</tr>
+<tr>
+<td>
+<img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasmaiia&theme=algolia&utcOffset=8"/>
+</td>
+<td>
+<img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasmaiia&theme=algolia"/>
+</td>
+<td>
+<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=lucasmaiia&theme=algolia&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- Visitas e seguidores -->
+<div align="center">
+<table>
+<tr>
+<td>
+<img width="150" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lucasmaiia"/>
+</td>
+<td>
+<a href="https://wakatime.com/@lucasmaiia"><img src="https://wakatime.com/badge/user/288ad758-ee3a-4e8f-a867-f67bc2d62980.svg" alt="Total time coded since Apr 7 2025" /></a>
+</td>     
+<td>
+<img width="150" alt="Followers" src="https://img.shields.io/github/followers/lucasmaiia?style=social"/>
+</td>
+<td>
+<img width="150" alt="Stars" src="https://img.shields.io/github/stars/lucasmaiia?style=social"/>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+</section>
