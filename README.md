@@ -322,8 +322,9 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <div align="center">
 <table>
 <td>
-<a href="mailto:lucasmaia23@gmail.com" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/Img/footerm.gif" alt="github-footer1"/></a>
+  <a href="mailto:lmaiarocha23@gmail.com">
+    <img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/footerm.gif?raw=true" alt="github-footer1"/>
+  </a>
 </td>
-</tr>
 </table>
 </div>
