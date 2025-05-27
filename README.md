@@ -5,16 +5,14 @@
 </p>
 
 -----
+
 <h3>🗣️​​ Minhas Redes</h3>
 <div align="center">
 <table>
 <tr>
- <td align="center" colspan="11"></td>
-</tr> 
-<tr>
 <td><a href="https://github.com/lucasmaiia" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/github4.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:lmaiarocha23@gmail.com" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/gmail2.png?raw=true" width="50px" height="30px"/></a>
+<td><a href="mailto:lmaiarocha23@gmail.com" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/gmail3.png?raw=true" width="50px" height="50px"/></a>
 </td>
 <td><a href="https://wa.me/5531993803557" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
@@ -24,13 +22,14 @@
 </td>
 <td><a href="https://discordapp.com/users/m4iaa" target="_blank"><img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-</tr>
-<tr>
- <td align="center" colspan="11"></td>
 </tr> 
 </table>
-
 </div>
+
+----
+
+<!-- Seção inicial -->
+
 <div align="justify">
 <i><b>Olá</b>, sou o <code>Lucas</code>, tenho 22 anos, moro em Belo Horizonte e iniciei minha jornada como desenvolvedor aos 20 anos. Atualmente estou <code>cursando</code> Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
