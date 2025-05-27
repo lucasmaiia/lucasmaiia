@@ -32,7 +32,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b>, sou o <code>Lucas</code>, tenho 22 anos, moro em Belo Horizonte e sou dev desde os 20 anos de idade. Atualmente estou <code>cursando</code> Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b>, sou o <code>Lucas</code>, tenho 22 anos, moro em Belo Horizonte e iniciei minha jornada como desenvolvedor aos 20 anos. Atualmente estou <code>cursando</code> Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 ----
