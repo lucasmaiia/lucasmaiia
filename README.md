@@ -1,7 +1,7 @@
 -----
 
 <p align="center">
-  <img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/hey.gif.gif?raw=true" width="100%"/>
+  <img src="https://github.com/lucasmaiia/lucasmaiia/blob/main/img/hello.gif?raw=true" width="100%"/>
 </p>
 
 -----
