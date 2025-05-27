@@ -318,7 +318,7 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <!-- Seção Footer -->
 
 <div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B729F7&width=435&separator=%3C&lines=printf(%22Obrigado+pela+visita!!%5Cn%22);%3Cprintf(%22Volte+sempre!%5Cn%22);" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=printf(%22Obrigado+pela+visita!!+%5Cn%22);%3Cprintf(%22Volte+sempre!!%5Cn%22);" alt="Typing SVG" />
 <div align="center">
 <table>
 <td>
