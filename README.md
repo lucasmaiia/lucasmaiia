@@ -241,7 +241,7 @@ Nascido e criado no interior de Minas Gerais, cultivo diversas paixões além do
 <img width="150" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=lucasmaiia"/>
 </td>
 <td>
-<a href="https://wakatime.com/@lucasmaiia"><img src="https://wakatime.com/badge/user/288ad758-ee3a-4e8f-a867-f67bc2d62980.svg" alt="Total time coded since Apr 7 2025" /></a>
+<a href="https://wakatime.com/@lucasmaiia"><img src="https://wakatime.com/badge/user/dbac70e6-328c-4e51-9312-75544a6bbdfd.svg" alt="Total time coded since Apr 7 2025" /></a>
 </td>     
 <td>
 <img width="150" alt="Followers" src="https://img.shields.io/github/followers/lucasmaiia?style=social"/>
