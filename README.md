@@ -31,7 +31,7 @@
 <!-- Seção inicial -->
 
 <div align="justify">
-<i><b>Olá</b>, sou o <code>Lucas</code>, tenho 22 anos, moro em Belo Horizonte e iniciei minha jornada como desenvolvedor aos 20 anos. Atualmente estou <code>cursando</code> Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
+<i><b>Olá</b>, sou o <code>Lucas</code>, tenho 23 anos, moro em Belo Horizonte e iniciei minha jornada como desenvolvedor aos 20 anos. Atualmente estou <code>cursando</code> Engenharia de Software na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>.</i> :man_teacher:<br />
 </div>
 
 ----
@@ -43,7 +43,7 @@
 <div align="justify"> Olá! Meu nome é Lucas Maia Rocha e sou estudante de Engenharia de Software na PUC Minas.
 Desde que iniciei minha jornada na tecnologia, venho me dedicando com afinco ao desenvolvimento de sistemas que sejam funcionais, bem estruturados e que gerem impacto positivo no dia a dia dos usuários.
 
-Atualmente estou no 5º período e venho consolidando meus conhecimentos tanto no back-end quanto no front-end, com especial interesse por arquitetura de software, usabilidade e acessibilidade. Minha stack principal envolve Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript e Bootstrap, além da utilização de ferramentas como PGAdmin, VS Code, Insomnia e GitHub. Também trabalho com a modelagem de dados, estruturação de APIs RESTful e construção de sistemas com base em padrões de arquitetura e design patterns.
+Atualmente estou no 6º período e venho consolidando meus conhecimentos tanto no back-end quanto no front-end, com especial interesse por arquitetura de software, usabilidade e acessibilidade. Minha stack principal envolve Java, Spring Boot, PostgreSQL, HTML, CSS, JavaScript e Bootstrap, além da utilização de ferramentas como PGAdmin, VS Code, Insomnia e GitHub. Também trabalho com a modelagem de dados, estruturação de APIs RESTful e construção de sistemas com base em padrões de arquitetura e design patterns.
 
 Tenho experiência prática no desenvolvimento de sistemas completos através dos meus trabalhos interdisciplinares e alguns projetos de software, como o <code>carGo</code>, uma plataforma de gestão de frotas de veículos, e o <code>EducaCoin</code>, um sistema de reconhecimento estudantil por meio de moedas virtuais, também o <code>TechFrotas</code>, uma plataforma de gestão de frotas de veículos, o <code>Apetito</code>, um sistema de gestão para restaurantes com pedidos, reservas e avaliações.. Em todos esses projetos, participei ativamente da modelagem, implementação e integração entre os módulos, sempre buscando aplicar boas práticas de engenharia de software e foco no usuário.
 
